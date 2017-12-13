@@ -1,3 +1,3 @@
 # founderacademy.github.io
-Founder Academy Open Source
+Founder Academy Open Source Projects
 
